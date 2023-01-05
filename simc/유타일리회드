@@ -1,0 +1,57 @@
+# 유타일리 - Restoration - 2023-01-05 21:06 - KR/Azshara
+# SimC Addon 10.0.2-04
+# WoW 10.0.2.47213, TOC 100002
+# Requires SimulationCraft 1000-01 or newer
+
+druid="유타일리"
+level=70
+race=tauren
+region=kr
+server=azshara
+role=attack
+professions=herbalism=14/mining=10
+spec=restoration
+
+talents=BkGAYhlYdy9RJ6ROrphOEi69vKkkoJJJJFaJBSC0SLJAAAAAAAAAAAAAkQIJgAIhQQClkkWSCAAAAAgAA
+
+# Saved Loadout: 던전
+# talents=BkGAYhlYdy9RJ6ROrphOEi69vKkkoJJJJFaJBSC0SLJAAAAAAAAAAAAAkQIJgAIhQQClkkWSCAAAAAgAA
+
+head=,id=193751,bonus_id=7974/6652/7937/8816/1568/8766
+neck=,id=193676,bonus_id=7974/6652/7936/8783/1568/8766
+shoulder=,id=193807,bonus_id=7978/7975/6652/8813,drop_level=69
+back=,id=193712,bonus_id=7974/8815/1568/8766
+chest=,id=193776,bonus_id=7978/7975/6652/8816,drop_level=66
+tabard=,id=63378
+wrist=,id=193649,bonus_id=7974/6652/7935/8815/1568/8766
+hands=,id=193721,bonus_id=7974/6652/8813/1568/8766
+waist=,id=193744,bonus_id=7974/6652/7937/8814/1568/8766
+legs=,id=193684,bonus_id=7974/6652/8816/1568/8766
+feet=,id=193739,bonus_id=7974/6652/8814/1568/8766
+finger1=,id=193731,bonus_id=7974/6652/7936/1568/8766
+finger2=,id=197989,bonus_id=8768,drop_level=67
+trinket1=,id=193773,bonus_id=7974/6652/1568/8766
+trinket2=,id=193660,bonus_id=7974/6652/1568/8766
+main_hand=,id=193674,bonus_id=7974/6652/1568/8766
+
+### Gear from Bags
+#
+# 피의 수렁 면갑 (80)
+# head=,id=157881,bonus_id=1494/4785/6258
+#
+# 아즈샤리 폭풍쇄도자 단망토 (66)
+# back=,id=169489,bonus_id=6288/6300
+#
+# 잔달라 고리 (81)
+# finger1=,id=158151,bonus_id=4803/6516/6515/1495/4785
+#
+# 키린 토 고리 (35)
+# finger1=,id=40586
+#
+# 불가해한 양자 장치 (184)
+# trinket1=,id=179350,bonus_id=6807/6652/1498/6646
+#
+# 부서진 철곤봉 (160)
+# main_hand=,id=160926,bonus_id=6657,drop_level=60
+
+# Checksum: 9c69330d
