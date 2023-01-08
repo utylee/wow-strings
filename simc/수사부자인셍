@@ -1,0 +1,59 @@
+# 부자인셍 - Discipline - 2023-01-08 20:35 - KR/Azshara
+# SimC Addon 10.0.2-04
+# WoW 10.0.2.47213, TOC 100002
+# Requires SimulationCraft 1000-01 or newer
+
+priest="부자인셍"
+level=52
+race=troll
+region=kr
+server=azshara
+role=spell
+professions=alchemy=144/inscription=175
+spec=discipline
+
+talents=BAQAu+2Vv7op3uGggQnVDr07wABQSBAJBBhUSSSiAAAAAAAAAAAAAAJRCiIRQQRkIJAA
+
+# Saved Loadout: a
+# talents=BAQAu+2Vv7op3uGggQnVDr07wABQSBAJBBhUSSSiAAAAAAAAAAAAAAJRCiIRQQRkIJAA
+
+head=,id=167754,bonus_id=6296/6300/1472/4786/5414/4775
+neck=,id=158075,bonus_id=6316/4932/4933/1527
+shoulder=,id=167756,bonus_id=6300/6297/1478/4786/6262/4775
+back=,id=169486,bonus_id=6300/4802/42/6290/1480/4786
+chest=,id=157898,bonus_id=1486/4786/6260/4775
+hands=,id=157936,enchant_id=5937,bonus_id=4803/1482/4785
+legs=,id=167755,bonus_id=6288/6300
+feet=,id=121108,bonus_id=6654/1710,drop_level=52
+finger1=,id=158161,bonus_id=4803/42/1480/4785
+trinket1=,id=158154,bonus_id=4803/1482/4785
+trinket2=,id=167555,gem_id=167556/168752,bonus_id=1474
+main_hand=,id=163872,bonus_id=1474/4786
+
+### Gear from Bags
+#
+# 단결의 망토 (29)
+# back=,id=65274
+#
+# 협동의 쓰개 (20)
+# back=,id=63353
+#
+# 합일의 등싸개 (20)
+# back=,id=63207
+#
+# 모래그물 손목싸개 (76)
+# wrist=,id=157941,bonus_id=4803/1478/5857/4784
+#
+# 간악한 배후자의 허리띠 (76)
+# waist=,id=173511,bonus_id=6412/6513/1470/4785
+#
+# 석공 길드의 고리 (66)
+# finger1=,id=165678,bonus_id=4803/41/1480/4785
+#
+# 참선의 연금술사 돌 (39)
+# trinket1=,id=75274
+#
+# 아연 도금 폭풍분쇄자 (72)
+# main_hand=,id=158369,bonus_id=4779/1485/4786
+
+# Checksum: 250f10b2
