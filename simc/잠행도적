@@ -1,0 +1,56 @@
+# 부자인섕 - Subtlety - 2023-01-07 03:46 - KR/Azshara
+# SimC Addon 10.0.2-04
+# WoW 10.0.2.47213, TOC 100002
+# Requires SimulationCraft 1000-01 or newer
+
+rogue="부자인섕"
+level=60
+race=goblin
+region=kr
+server=azshara
+role=attack
+professions=leatherworking=100/skinning=28
+spec=subtlety
+
+talents=BUQAOB/7AZ//CwQOf4fPMswHVDAAAAAAAAAARSSSSigkASkAcgkEJCRkIRIphkEAEAAAA
+
+
+head=,id=178760,bonus_id=6806/6652/7193/1485/4785
+neck=,id=184757
+shoulder=,id=178858,bonus_id=6806/6652/1485/4785
+back=,id=183033,bonus_id=6805/6652
+chest=,id=179765,bonus_id=7195/1472/6616
+tabard=,id=63378
+wrist=,id=184657,bonus_id=6652/6935
+hands=,id=178757,bonus_id=6806/6652/1485/4785
+waist=,id=178823,bonus_id=6806/6652/7194/1485/4785
+legs=,id=178801,bonus_id=6806/43/1485/4785
+feet=,id=179766,bonus_id=7197/1488/6616
+finger1=,id=175713,bonus_id=7576/1472/5874/6616
+finger2=,id=179355,bonus_id=6806/6652/7193/1485/4785
+trinket1=,id=178742,bonus_id=6806/6652/1485/4785
+trinket2=,id=187447,bonus_id=6652/1479/6646
+main_hand=,id=178710,bonus_id=6805/6652/1472/4785
+off_hand=,id=127458,bonus_id=7191/6652,drop_level=60
+
+### Gear from Bags
+#
+# 페이매듭 나뭇가지 (1)
+# back=,id=181301
+#
+# 불가해한 목적의 외투 (171)
+# back=,id=184758
+#
+# 나무심장 팔보호구 (177)
+# wrist=,id=179772,bonus_id=7198/1494/6616
+#
+# 추적자 망령의 장식띠 (168)
+# waist=,id=181186,bonus_id=6652/6935/1472/5865/6616
+#
+# 살점주입 고리 (171)
+# finger1=,id=178869,bonus_id=6806/6652/7193/1485/4785
+#
+# 무한하게 분열하는 수액 (171)
+# trinket1=,id=178769,bonus_id=6806/1485/4785
+
+# Checksum: e071fd40

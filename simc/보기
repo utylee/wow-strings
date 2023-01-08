@@ -1,0 +1,50 @@
+# 부자인쌤 - Protection - 2023-01-06 03:13 - KR/Azshara
+# SimC Addon 10.0.2-04
+# WoW 10.0.2.47213, TOC 100002
+# Requires SimulationCraft 1000-01 or newer
+
+paladin="부자인쌤"
+level=51
+race=zandalari_troll
+zandalari_loa=gonk
+region=kr
+server=azshara
+role=tank
+professions=alchemy=125/tailoring=2
+spec=protection
+
+talents=BIEAwtJ2KpR8WbGzhz/jy2AP80CCIKSLJRp0QiEIEAAAAAAAAAAAAAA0EJJpIQSUAgoEA
+
+# Saved Loadout: 보기던전
+# talents=BIEAwtJ2KpR8WbGzhz/jy2AP80CCIKSLJRp0QiEIEAAAAAAAAAAAAAA0EJJpIQSUAgoEA
+
+head=,id=174258,bonus_id=4822/1487/4786/6505/4775
+neck=,id=158075,bonus_id=4932/4933/6316/1548
+shoulder=,id=173835,bonus_id=1479/4786/6503/4775
+back=,id=169223,bonus_id=6277/1472
+chest=,id=157926,bonus_id=1499/4786/6501/4775
+tabard=,id=63378
+wrist=,id=174956,bonus_id=6540/6515/6578/6579/4803
+hands=,id=163458,bonus_id=5125/6516/6515/1513/4786
+waist=,id=183595
+legs=,id=183590
+feet=,id=183594
+finger1=,id=158152,bonus_id=4803/6516/6513/1495/4785
+finger2=,id=155560,bonus_id=4803/1495/4785
+trinket1=,id=158162,bonus_id=4803/6513/1492/4785
+trinket2=,id=161117,bonus_id=4803/1495/4785
+main_hand=,id=159593,bonus_id=6655/1694,drop_level=49
+off_hand=,id=159806,bonus_id=6655/1685,drop_level=37
+
+### Gear from Bags
+#
+# 아즈샤리 폭풍쇄도자 단망토 (66)
+# back=,id=169489,bonus_id=6288/6300
+#
+# 선혈꽃잎의 부드러운 손아귀 (116)
+# hands=,id=116916,bonus_id=3789/4324,drop_level=40
+#
+# 죽음경비병의 대검 (115)
+# main_hand=,id=166482,bonus_id=5844/1527/4786
+
+# Checksum: 7271e170

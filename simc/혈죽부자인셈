@@ -1,0 +1,53 @@
+# 부자인셈 - Blood - 2023-01-07 23:46 - KR/Azshara
+# SimC Addon 10.0.2-04
+# WoW 10.0.2.47213, TOC 100002
+# Requires SimulationCraft 1000-01 or newer
+
+deathknight="부자인셈"
+level=51
+race=goblin
+region=kr
+server=azshara
+role=tank
+professions=alchemy=142/tailoring=3
+spec=blood
+
+talents=BoPAdLUHklrTr3hBIcYWdbnCGDgkIg4AISEkISIQSSEAAAAAACJQkQiIBAAISSEAAAA
+
+# Saved Loadout: a
+# talents=BoPAdLUHklrTr3hBIcYWdbnCGDgkIg4AISEkISIQSSEAAAAAACJQkQiIBAAISSEAAAA
+
+head=,id=173836,bonus_id=1479/4786/6502/4775
+neck=,id=158075,bonus_id=6316/4932/4933/1549
+shoulder=,id=157900,bonus_id=1499/4786/6503/4775
+back=,id=169223,bonus_id=6277/1472
+chest=,id=173454,bonus_id=1505/4786/6504/4775
+wrist=,id=174956,bonus_id=6540/6578/6579/4803/6515
+hands=,id=183635,bonus_id=1482/4786
+waist=,id=157965,gem_id=154126,bonus_id=4803/4802/42/6516/6513/1509/4786
+legs=,id=157931,bonus_id=4803/6578/6579/6548/6515/1504/4786
+feet=,id=173455,bonus_id=6412/4803/6513/6516/1484/4786
+finger1=,id=174268,enchant_id=5938,bonus_id=4822/6516/6515/1487/4786
+finger2=,id=158161,bonus_id=4803/6516/6515/1495/4785
+trinket1=,id=158162,bonus_id=4803/6513/1495/4785
+trinket2=,id=155568,bonus_id=40/4802/4803/1495/4785
+main_hand=,id=166482,enchant_id=3370,bonus_id=5844/1527/4786
+
+### Gear from Bags
+#
+# 아즈샤리 폭풍쇄도자 단망토 (66)
+# back=,id=169489,bonus_id=6288/6300
+#
+# 헬스크림 세력단 휘장 (1)
+# tabard=,id=63378
+#
+# 선혈꽃잎의 부드러운 손아귀 (106)
+# hands=,id=116916,bonus_id=3789,drop_level=40
+#
+# 드레나이 현자의 돌 (44)
+# trinket1=,id=109262
+#
+# 소형 산출 장치 (74)
+# trinket1=,id=167555,bonus_id=1474
+
+# Checksum: 31bb0952
