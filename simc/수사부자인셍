@@ -1,59 +1,61 @@
-# 부자인셍 - Discipline - 2023-01-08 20:35 - KR/Azshara
+# 부자인셍 - Discipline - 2023-01-19 16:48 - KR/Azshara
 # SimC Addon 10.0.2-04
-# WoW 10.0.2.47213, TOC 100002
+# WoW 10.0.2.47631, TOC 100002
 # Requires SimulationCraft 1000-01 or newer
 
 priest="부자인셍"
-level=52
+level=70
 race=troll
 region=kr
 server=azshara
 role=spell
-professions=alchemy=144/inscription=175
+professions=alchemy=1/inscription=1
 spec=discipline
 
-talents=BAQAu+2Vv7op3uGggQnVDr07wABQSBAJBBhUSSSiAAAAAAAAAAAAAAJRCiIRQQRkIJAA
+talents=BAQAu+2Vv7op3uGggQnVDr07wABQSJRCkEERIlkkkIBAAAAAAAAAAAgkWkSSkgISEEUEJSCA
 
-# Saved Loadout: a
-# talents=BAQAu+2Vv7op3uGggQnVDr07wABQSBAJBBhUSSSiAAAAAAAAAAAAAAJRCiIRQQRkIJAA
+# Saved Loadout: ㅁ
+# talents=BAQAu+2Vv7op3uGggQnVDr07wABQSJRCkEERIlkkkIBAAAAAAAAAAAApFpkEJIiEBBFRikAA
+# Saved Loadout: ㅁ
+# talents=BAQAu+2Vv7op3uGggQnVDr07wABQSJRCkEERIlkkkIBAAAAAAAAAAAgkWkSSkgISEEUEJSCA
 
-head=,id=167754,bonus_id=6296/6300/1472/4786/5414/4775
-neck=,id=158075,bonus_id=6316/4932/4933/1527
-shoulder=,id=167756,bonus_id=6300/6297/1478/4786/6262/4775
-back=,id=169486,bonus_id=6300/4802/42/6290/1480/4786
-chest=,id=157898,bonus_id=1486/4786/6260/4775
-hands=,id=157936,enchant_id=5937,bonus_id=4803/1482/4785
-legs=,id=167755,bonus_id=6288/6300
-feet=,id=121108,bonus_id=6654/1710,drop_level=52
-finger1=,id=158161,bonus_id=4803/42/1480/4785
-trinket1=,id=158154,bonus_id=4803/1482/4785
-trinket2=,id=167555,gem_id=167556/168752,bonus_id=1474
-main_hand=,id=163872,bonus_id=1474/4786
+head=,id=193703,bonus_id=7976/6652/7936/8816/1581/8766
+neck=,id=193666,bonus_id=7976/7937/8784/1581/8766
+shoulder=,id=198572,bonus_id=8978/6652/1481/8766
+back=,id=198961,bonus_id=8978/6652/8815/1488/8766
+chest=,id=193738,bonus_id=7976/6652/8816/1581/8766
+wrist=,id=193792,bonus_id=7976/6652/7936/8815/1581/8766
+hands=,id=193713,bonus_id=7976/6652/8813/1581/8766
+waist=,id=193691,bonus_id=7976/6652/7935/8814/1581/8766
+legs=,id=193799,bonus_id=7976/43/8816/1581/8766
+feet=,id=198566,bonus_id=8978/6652/8814/1475/5858/8766
+finger1=,id=193804,bonus_id=7976/6652/7936/1581/8766
+finger2=,id=193633,bonus_id=7976/6652/7935/1581/8766
+trinket1=,id=193769,bonus_id=7976/6652/1581/8766
+trinket2=,id=193677,bonus_id=7976/6652/1581/8766
+main_hand=,id=199081,bonus_id=8978/6652/1488/8766
 
 ### Gear from Bags
 #
-# 단결의 망토 (29)
-# back=,id=65274
+# 뇌전의 반지 (359)
+# finger1=,id=193696,bonus_id=7976/6652/7936/1581/8766
 #
-# 협동의 쓰개 (20)
-# back=,id=63353
-#
-# 합일의 등싸개 (20)
-# back=,id=63207
-#
-# 모래그물 손목싸개 (76)
-# wrist=,id=157941,bonus_id=4803/1478/5857/4784
-#
-# 간악한 배후자의 허리띠 (76)
-# waist=,id=173511,bonus_id=6412/6513/1470/4785
-#
-# 석공 길드의 고리 (66)
-# finger1=,id=165678,bonus_id=4803/41/1480/4785
+# 루비 새끼용 알껍질 (359)
+# trinket1=,id=193757,bonus_id=7976/6652/1581/8766
 #
 # 참선의 연금술사 돌 (39)
 # trinket1=,id=75274
 #
-# 아연 도금 폭풍분쇄자 (72)
-# main_hand=,id=158369,bonus_id=4779/1485/4786
+# 시간 침투의 갈퀴발톱 (359)
+# trinket1=,id=193791,bonus_id=7976/41/1581/8766
+#
+# 평야의 숨결 (363)
+# trinket1=,id=198539,bonus_id=40/1424/5858/8766
+#
+# 코롤레스의 우지직거리는 단검 (359)
+# main_hand=,id=193687,bonus_id=7976/6652/1581/8766
+#
+# 코롤레스의 우지직거리는 단검 (346)
+# main_hand=,id=193687,bonus_id=7974/6652/1568/8766
 
-# Checksum: 250f10b2
+# Checksum: fa5c7bf9

@@ -1,10 +1,10 @@
-# 부자인셈 - Blood - 2023-01-07 23:46 - KR/Azshara
+# 부자인셈 - Blood - 2023-01-20 15:19 - KR/Azshara
 # SimC Addon 10.0.2-04
-# WoW 10.0.2.47213, TOC 100002
+# WoW 10.0.2.47631, TOC 100002
 # Requires SimulationCraft 1000-01 or newer
 
 deathknight="부자인셈"
-level=51
+level=66
 race=goblin
 region=kr
 server=azshara
@@ -12,31 +12,59 @@ role=tank
 professions=alchemy=142/tailoring=3
 spec=blood
 
-talents=BoPAdLUHklrTr3hBIcYWdbnCGDgkIg4AISEkISIQSSEAAAAAACJQkQiIBAAISSEAAAA
+talents=BoPAdLUHklrTr3hBIcYWdbnCGDCJJCkIHIiEBJiECSSSkAAAAAAISiDQk0kISAAAikEJAAAA
 
 # Saved Loadout: a
-# talents=BoPAdLUHklrTr3hBIcYWdbnCGDgkIg4AISEkISIQSSEAAAAAACJQkQiIBAAISSEAAAA
+# talents=BoPAdLUHklrTr3hBIcYWdbnCGDCJJCcgIHIiEBJiECSSSkAAAAAAISCEJNJiEAAgIJRCAAAA
+# Saved Loadout: a
+# talents=BoPAdLUHklrTr3hBIcYWdbnCGDCJJCcgIHIiEBJiECSSSkAAAAAAISiDQk0kISAAAikEJAAAA
+# Saved Loadout: a
+# talents=BoPAdLUHklrTr3hBIcYWdbnCGDCJJCkIHIiEBJiECSSSkAAAAAAISiDQk0kISAAAikEJAAAA
 
-head=,id=173836,bonus_id=1479/4786/6502/4775
-neck=,id=158075,bonus_id=6316/4932/4933/1549
-shoulder=,id=157900,bonus_id=1499/4786/6503/4775
-back=,id=169223,bonus_id=6277/1472
-chest=,id=173454,bonus_id=1505/4786/6504/4775
-wrist=,id=174956,bonus_id=6540/6578/6579/4803/6515
-hands=,id=183635,bonus_id=1482/4786
-waist=,id=157965,gem_id=154126,bonus_id=4803/4802/42/6516/6513/1509/4786
-legs=,id=157931,bonus_id=4803/6578/6579/6548/6515/1504/4786
-feet=,id=173455,bonus_id=6412/4803/6513/6516/1484/4786
-finger1=,id=174268,enchant_id=5938,bonus_id=4822/6516/6515/1487/4786
-finger2=,id=158161,bonus_id=4803/6516/6515/1495/4785
-trinket1=,id=158162,bonus_id=4803/6513/1495/4785
-trinket2=,id=155568,bonus_id=40/4802/4803/1495/4785
-main_hand=,id=166482,enchant_id=3370,bonus_id=5844/1527/4786
+head=,id=198028,bonus_id=8776,drop_level=63
+neck=,id=195210,bonus_id=8776/8984,drop_level=66
+shoulder=,id=192010,bonus_id=9156/6652,drop_level=66
+back=,id=195185,bonus_id=8768/8769,drop_level=66
+chest=,id=198032,bonus_id=8768,drop_level=63
+wrist=,id=195224,bonus_id=7963,drop_level=65
+hands=,id=198031,bonus_id=8776/8777,drop_level=64
+waist=,id=198026,bonus_id=8768/8769,drop_level=64
+legs=,id=192009,bonus_id=9156/6652,drop_level=66
+feet=,id=192007,bonus_id=9156/6652,drop_level=66
+finger1=,id=195212,bonus_id=7963,drop_level=65
+finger2=,id=195213,bonus_id=8776,drop_level=66
+trinket1=,id=195220,bonus_id=8776,drop_level=66
+trinket2=,id=195219,bonus_id=7963,drop_level=65
+main_hand=,id=195182,bonus_id=8768,drop_level=65
 
 ### Gear from Bags
 #
+# 악성 거대괴수의 투구 (90)
+# head=,id=173836,bonus_id=1479/4786/6502/4775
+#
+# 엄숙한 조개껍질 끈 (272)
+# neck=,id=197990,bonus_id=8776,drop_level=64
+#
+# 뼈장식 어깨철갑 (90)
+# shoulder=,id=157900,bonus_id=1499/4786/6503/4775
+#
+# 강철 광택 어깨보호대 (262)
+# shoulder=,id=198029,bonus_id=8768,drop_level=64
+#
+# 부식된 판금 어깨보호대 (180)
+# shoulder=,id=188714,bonus_id=7966,drop_level=66
+#
+# 아쉬즈라카마스 - 결의의 수의 (135)
+# back=,id=169223,bonus_id=6277/1472
+#
+# 투스카르 혼백 어깨망토 (262)
+# back=,id=198001,bonus_id=8768,drop_level=64
+#
 # 아즈샤리 폭풍쇄도자 단망토 (66)
 # back=,id=169489,bonus_id=6288/6300
+#
+# 악성 거대괴수의 가슴갑옷 (116)
+# chest=,id=173454,bonus_id=1505/4786/6504/4775
 #
 # 헬스크림 세력단 휘장 (1)
 # tabard=,id=63378
@@ -44,10 +72,19 @@ main_hand=,id=166482,enchant_id=3370,bonus_id=5844/1527/4786
 # 선혈꽃잎의 부드러운 손아귀 (106)
 # hands=,id=116916,bonus_id=3789,drop_level=40
 #
-# 드레나이 현자의 돌 (44)
-# trinket1=,id=109262
+# 수습 시간감시자 경갑 (272)
+# legs=,id=195209,bonus_id=8768,drop_level=65
+#
+# 시간여행단 (276)
+# feet=,id=195196,bonus_id=7963,drop_level=65
+#
+# 물의 점지를 받은 인장 (252)
+# finger1=,id=197989,bonus_id=8768,drop_level=63
+#
+# 충만한 비전수정 (252)
+# trinket1=,id=198037,bonus_id=8768,drop_level=63
 #
 # 소형 산출 장치 (74)
-# trinket1=,id=167555,bonus_id=1474
+# trinket1=,id=167555,gem_id=167556/168752,bonus_id=1474
 
-# Checksum: 31bb0952
+# Checksum: 5c61eca6
